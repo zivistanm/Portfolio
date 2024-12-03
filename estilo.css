@@ -429,17 +429,6 @@ html {
 
 /* Sección CV */
 
-h5 {
-    color: #333;
-}
-ul {
-    margin: 10px 0;
-    padding-left: 20px;
-}
-li {
-    margin-bottom: 10px;
-}
-
 .curriculum {
     background-color: #1e2326;
     color: #fff;
